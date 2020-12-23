@@ -10,6 +10,8 @@ The year 2020 has definitely been different to that expected so let's today up a
 
 And other stuff that I mention along the way!
 
+The **GNU GPLv3** lets you do almost anything you with this project, except distributing closed source versions.
+
 ### List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon
