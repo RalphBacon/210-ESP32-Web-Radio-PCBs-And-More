@@ -3,7 +3,7 @@
 
 ### See YouTube video #210 at www.youtube.com/ralphbacon or directly here:   
 
-The year 2020 has definitely been different to that expected so let's today up a few loose ends:  
+The year 2020 has definitely been different to that expected so let's tidy up a few loose ends:  
 * A clarification to the Timer video from last week (#209)
 * Not 1, not 2 but 4 PCBs to look at from the wonderful JLCPCB  
 * A quick mention of Norman Dunbar's excellent Arduino Software Internals book.  
