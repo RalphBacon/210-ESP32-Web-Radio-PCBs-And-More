@@ -1,7 +1,9 @@
 # ESP32 Web Radio PCBs & More
 #### PCBs for the ESP32/VS1053 Web Radio plus a helper PCB for the ILI9341 TFT Touch Screen  
 
-### See YouTube video #210 at www.youtube.com/ralphbacon or directly here:   
+### See YouTube video #210 at www.youtube.com/ralphbacon or directly here: https://youtu.be/lF2v47PNCDU  
+
+<img src="/images/thumbnail.jpg" width="25%">
 
 The year 2020 has definitely been different to that expected so let's tidy up a few loose ends:  
 * A clarification to the Timer video from last week (#209)
