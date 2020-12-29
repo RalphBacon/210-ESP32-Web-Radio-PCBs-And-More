@@ -14,6 +14,9 @@ And other stuff that I mention along the way!
 
 The **GNU GPLv3** lets you do almost anything you with this project, except distributing closed source versions.
 
+For constructional details of my ESP32 Web Radio (plus components list) see:  
+https://github.com/RalphBacon/205-Internet-Radio/tree/main/ESP32-Web-Radio-Construction  
+
 ### List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon
